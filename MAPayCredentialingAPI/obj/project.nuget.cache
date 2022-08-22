@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "HlmDayd/4Qc0fSFX3X5xtObemgitnd4KVIml8Jc9cnqINTa4zw7NIJUeGrvfthBqa2OC9LuL78nNvOTIbBKw7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pushp\\source\\repos\\MAPayCredentials\\MAPayCredentialing\\MAPayCredentialingAPI\\MAPayCredentialingAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pushp\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\pushp\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\pushp\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\pushp\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\pushp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\pushp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
